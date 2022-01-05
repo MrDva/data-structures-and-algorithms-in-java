@@ -1,4 +1,4 @@
-package edu.czb.datastructures.list;
+package edu.czb.datastructures.util;
 
 /**
  * @author: 陈泽彬

@@ -1,5 +1,7 @@
 package edu.czb.datastructures.list;
 
+import edu.czb.datastructures.util.Node;
+
 /**
  * @author: 陈泽彬
  * @date: 2021/12/27 12:48
